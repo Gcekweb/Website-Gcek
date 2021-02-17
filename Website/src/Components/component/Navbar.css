@@ -1,0 +1,29 @@
+.Navbar {
+
+    width: 100%;
+    height: 4em;
+    display: flex;
+    position: absolute;
+    top: 1em;
+    z-index: 1;
+    font-family: 'Roboto',
+        sans-serif;
+    letter-spacing: 0.1em;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+
+
+.a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5em;
+    margin-right: 1.4rem;
+    margin-left: 0.5rem;
+}
+
+.a:hover {
+    color: rgb(248, 244, 14);
+}

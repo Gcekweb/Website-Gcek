@@ -1,0 +1,71 @@
+.note {
+    top: 0rem;
+    display: flex;
+    padding: 2em;
+}
+
+.marquee {
+    height: 15rem;
+    border: 0.04em solid black;
+}
+
+.notice {
+    background-color: white;
+    color: black;
+}
+
+.marquee p {
+    padding: 0.5em;
+}
+
+.p {
+    margin: 0em;
+}
+
+.marquee p:nth-child(odd) {
+    background-color: rgb(151, 151, 151);
+}
+
+.notice2 {
+    background-color: white;
+    color: black;
+}
+
+.fl {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.notice-title {
+    text-align: center;
+    color: rgb(95, 16, 16);
+    padding: 0.5rem;
+    font-size: 1.7em;
+    font-weight: bold;
+}
+
+.more {
+    position: absolute;
+    top: 62em;
+    color: black;
+    left: 35em;
+    font-weight: bold;
+}
+
+.more a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.more1 {
+    position: absolute;
+    top: 62em;
+    color: black;
+    left: 73em;
+    font-weight: bold;
+}
+
+.more1 a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}

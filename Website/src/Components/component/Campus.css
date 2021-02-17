@@ -1,0 +1,43 @@
+.tag {
+    text-indent: 5%;
+    text-size-adjust: 100%;
+    font-weight: bold;
+}
+
+.official_card {
+    background-color: rgb(250, 68, 68);
+    height: 300px;
+    width: 100%;
+}
+
+
+.official_img {
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
+.map_card {
+    background-color: rgb(2, 155, 216);
+    height: 300px;
+    width: 50%;
+    position: relative;
+
+}
+
+.map_img {
+    height: 300px;
+    width: 100%;
+    left: 100%;
+    position: absolute;
+}
+
+.hostel_card {
+    background-color: rgb(167, 248, 87);
+
+}
+
+.hostel_img {
+    height: 300px;
+    width: 50%;
+}

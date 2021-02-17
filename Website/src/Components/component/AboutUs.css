@@ -1,0 +1,14 @@
+.about {
+    text-align: center;
+    font-size: 3rem;
+    justify-content: center;
+    color: rgb(78, 16, 16);
+    font-family: 'Roboto';
+}
+
+.para {
+    text-align: center;
+    margin: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}

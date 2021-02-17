@@ -1,0 +1,15 @@
+.slide {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.new {
+    background-color: rgb(99, 8, 8);
+    color: white;
+    font-size: 30px;
+    float: left;
+    padding-right: 5.5rem;
+    padding-left: 1.5rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+}
