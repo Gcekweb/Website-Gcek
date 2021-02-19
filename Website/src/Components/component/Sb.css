@@ -1,45 +1,36 @@
 .login {
     position: absolute;
-    top: 25em;
+    top: 1.4em;
     color: white;
     font-weight: bold;
-    left: 41%;
-    background-color: rgb(102, 28, 28);
-    padding-top: 0.5em;
-    padding-left: 6em;
-    padding-right: 6em;
-    padding-bottom: 0.5em;
-    border-radius: 25px;
-    -webkit-border-radius: 25px;
-    -moz-border-radius: 25px;
-    -ms-border-radius: 25px;
-    -o-border-radius: 25px;
+    left: 84%;
+    z-index: 10;
     text-decoration: none;
-    border: 0.1em solid white;
+}
+
+.slash {
+    position: absolute;
+    top: 1.4em;
+    left: 88%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .login {
     text-decoration: none;
     color: white;
+    z-index: 10;
 }
 
 .sign {
     position: absolute;
-    top: 29em;
+    top: 1.4em;
     color: white;
     font-weight: bold;
-    left: 39.7%;
-    background-color: rgb(102, 28, 28);
-    padding-top: 0.5em;
-    padding-left: 6.6em;
-    padding-right: 6.7em;
-    padding-bottom: 0.5em;
-    border-radius: 25px;
-    -webkit-border-radius: 25px;
-    -moz-border-radius: 25px;
-    -ms-border-radius: 25px;
-    -o-border-radius: 25px;
-    border: 0.1em solid white;
+    left: 89%;
+    z-index: 10;
+
 }
 
 .sign {

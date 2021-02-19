@@ -17,13 +17,15 @@ import Footer from './Components/component/Footer';
 import Sign from './Components/component/Sign';
 import Login from './Components/component/Login';
 
+
 class App extends Component {
   render() {
     return (
       <container>
         <BrowserRouter>
-          <div>
+          <div className="content">
             <Navbar />
+
             <Switch>
               <Route path="/" component={Home} exact />
               <Route path="/department" component={Department} />
@@ -37,8 +39,9 @@ class App extends Component {
               <Route path="/login" component={Login} />
               <Route component={Error} />
             </Switch>
-            <Footer />
+
           </div>
+          <Footer />
         </BrowserRouter>
 
       </container>

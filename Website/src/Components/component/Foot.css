@@ -1,17 +1,17 @@
+.footer {
+    position: relative;
+    left: 0em;
+    bottom: 0em;
+    width: 100%;
+
+}
+
+
 .back {
     filter: blur(0.2em);
     -webkit-filter: blur(0.2em);
-    position: absolute;
 }
 
-.cont {
-    position: relative;
-
-}
-
-.Contact {
-    display: block;
-}
 
 .logo {
     position: absolute;
@@ -24,6 +24,7 @@
     color: white;
     top: 7em;
     left: 60em;
+    bottom: 0%;
     font-size: 1em;
     justify-content: center;
     font-family: 'pirata one';

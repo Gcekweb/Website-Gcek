@@ -2,7 +2,7 @@ import React from "react";
 import "./Navbar.css";
 import Home from '@material-ui/icons/Home';
 import { NavLink } from 'react-router-dom';
-
+import Logo from './Logo.png';
 
 const Navbar = () => {
     return (
@@ -17,7 +17,9 @@ const Navbar = () => {
                 <NavLink to="/Notification" className="a">Notification</NavLink>
                 <NavLink to="/Campus" className="a">Campus</NavLink>
             </div>
-
+            <div className="whiteLogo">
+                <img src={Logo} alt="" width="50em" height="50em" srcset="" />
+            </div>
 
         </container>
 
