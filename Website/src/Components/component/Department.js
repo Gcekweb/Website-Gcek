@@ -4,7 +4,7 @@ import Cards from './Cards'
 import Sdata from "./Sdata";
 import AccountBalanceTwoToneIcon from '@material-ui/icons/AccountBalanceTwoTone';
 
-function Department(props) {
+function Department() {
     return (
         <container>
             <div>
