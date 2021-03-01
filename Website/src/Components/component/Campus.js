@@ -30,11 +30,16 @@ function Campus() {
                     <div className="map_card">
                         <a href={'https://g.page/GCoEK?share'} >
                             <img src={map_image} alt="Check your network." className="map_img" /></a>
+                        <NavLink to='https://g.page/GCoEK?share' className="map"> Our Location </NavLink>
+                        <p className="tag2">Reach us</p>
                     </div>
                 </div>
                 <div >
                     <div className="hostel_card">
-                        <img src={hostel_image} alt="Check your network." className="hostel_img" />
+                        <NavLink to='https://g.page/GCoEK?share' className="hostel_img">
+                            <img src={hostel_image} alt="Check your network." className="hostel_img" /></NavLink>
+                        <NavLink to='https://g.page/GCoEK?share' className="hostel">Hostel </NavLink>
+                        <p className="tag3">Way to being independent</p>
                     </div>
 
                 </div>
