@@ -8,8 +8,7 @@ const Sb = () => {
         <container>
             <div>
                 <NavLink to="/login" className="login">Login</NavLink>
-                <p className="slash">/</p>
-                <NavLink to="./sign" className="sign">Sign Up </NavLink>
+
             </div>
 
 

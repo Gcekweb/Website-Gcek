@@ -5,8 +5,9 @@ import { NavLink } from 'react-router-dom';
 import Logo from './Logo.png';
 
 const Navbar = () => {
+
     return (
-        <container>
+        <container >
             <div className="Navbar">
                 <NavLink to="/" className="a"><Home /></NavLink>
                 <NavLink to="./department" className="a">Department </NavLink>

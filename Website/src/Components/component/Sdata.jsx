@@ -21,6 +21,10 @@ const Sdata = [
         imgsrc: "https://www.witsolapur.org/witchar2019/new_image/entc.jpg",
         title: "ENTC",
     },
+      {
+        imgsrc: "https://images.yourstory.com/production/document_image/mystoryimage/kzmk5zzx-technology.jpg",
+        title: "MCA",
+    },
 
 ];
 

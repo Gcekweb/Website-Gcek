@@ -6,7 +6,8 @@ import './Department.css';
     
 function Card(props) {
     return(
-         <div className="cards">
+        <container>
+ <div className="cards">
     <div className="card">
     <img src={props.imgsrc} alt="myPic" className="card_img"/>
     <div className="card_info">
@@ -19,6 +20,8 @@ function Card(props) {
     </div>
     </div>
     </div>
+        </container>
+        
     );
 }
 

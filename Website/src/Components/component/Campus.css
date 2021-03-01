@@ -1,3 +1,52 @@
+.camp {
+    padding: 100px 0 0;
+}
+
+.header-camp {
+    background-color: brown;
+    top: 0rem;
+    width: 100%;
+    position: absolute;
+    padding: 2.9rem;
+}
+
+.campus {
+    color: brown;
+    font-size: 2.9rem;
+    padding: 0.4rem;
+    margin-left: 1.9rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+.website {
+    color: white;
+    text-decoration: none;
+    font-size: 3.6rem;
+    padding-top: 6rem;
+    padding-left: 1.6rem;
+    position: absolute;
+    z-index: 209809;
+    font-family: 'Roboto Slab';
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+.tag1 {
+    color: white;
+    padding-top: 11rem;
+    position: absolute;
+    padding-left: 41.5rem;
+
+}
+
+.icon {
+    width: 4rem;
+    height: 5rem;
+    font-size: 50rem;
+
+}
+
 .tag {
     text-indent: 5%;
     text-size-adjust: 100%;

@@ -14,7 +14,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
 
-
+.bg {
+    background-color: brown;
+}
 
 .a {
     text-decoration: none;
@@ -25,11 +27,12 @@
 }
 
 .a:hover {
-    color: rgb(248, 244, 14);
+    color: rgb(248, 193, 14);
 }
 
 .whiteLogo {
     position: absolute;
     left: 75em;
     top: 0.9em;
+    z-index: 1;
 }

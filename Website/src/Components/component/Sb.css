@@ -8,34 +8,11 @@
     text-decoration: none;
 }
 
-.slash {
-    position: absolute;
-    top: 1.4em;
-    left: 88%;
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-}
 
 .login {
     text-decoration: none;
     color: white;
     z-index: 10;
-}
-
-.sign {
-    position: absolute;
-    top: 1.4em;
-    color: white;
-    font-weight: bold;
-    left: 89%;
-    z-index: 10;
-
-}
-
-.sign {
-    text-decoration: none;
-    color: white;
 }
 
 .sign:hover,
